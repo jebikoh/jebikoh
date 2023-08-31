@@ -2,8 +2,6 @@
 
 I am currently a senior studying CS @ UW. I am interested machine learning and social networks.
 
- - I’m currently working on [neon](https://github.com/jebikoh/neon)
- - You can find my other projects [here](https://jkoh.io/projects)
  - Feel free to contact me [here](https://jkoh.io/contact)
 
 <!--
