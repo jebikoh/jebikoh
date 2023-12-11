@@ -1,9 +1,4 @@
 ### Hey 👋
-
-I am currently a senior studying CS @ UW. I am interested machine learning and social networks.
-
- - Feel free to contact me [here](https://jkoh.io/contact)
-
 <!--
 **jebikoh/jebikoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
